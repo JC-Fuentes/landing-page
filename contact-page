@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>     
+    <title> 
+      twelfthGear Bio
+    </title>     
+  </head> 
+  
+  <body> 
+    <a href=".."> <!-- ".." will take you up one directory/file -->
+      Back
+  </body>
+  
+</html>
