@@ -5,11 +5,12 @@
     <title> 
       twelfthGear Bio
     </title>     
-  </head> 
-  
+  </head>
   <body> 
-    <a href=".."> <!-- ".." will take you up one directory/file -->
-      Back
+    <div>
+      <a href=".."> <!-- ".." will take you up one directory/file -->
+       Back       
+     </div>
   </body>
   
 </html>
